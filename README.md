@@ -6,7 +6,7 @@
 시스템: Synology DSM 7.0
 
 첫 번째 단계는 Synology DSM 포털을 열고 Notification – Application Webhooks로 이동하는 것입니다. (웹 훅이 DSM 7.0의 새로운 기능인지는 확실하지 않습니다.)
-
+<img width="1436" alt="Screen-Shot-2022-02-04-at-9 14 15-am" src="https://github.com/sH1222J/Use-Telegram-as-Synology-Alerts-Push-Notification/assets/28824568/39ea4fa0-85dc-49af-8c31-08fc058ed9ce">
 
 새 웹 후크를 추가하려면 이 항목을 선택하고 사용자 정의를 선택합니다.
 
